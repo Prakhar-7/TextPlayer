@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextPlayer/static/css/main.86d72a70.css",
+    "main.js": "/TextPlayer/static/js/main.e94bb4c1.js",
+    "index.html": "/TextPlayer/index.html",
+    "main.86d72a70.css.map": "/TextPlayer/static/css/main.86d72a70.css.map",
+    "main.e94bb4c1.js.map": "/TextPlayer/static/js/main.e94bb4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d72a70.css",
+    "static/js/main.e94bb4c1.js"
+  ]
+}
